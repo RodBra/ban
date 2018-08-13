@@ -1,0 +1,2 @@
+# ban
+Primeiro impacto
